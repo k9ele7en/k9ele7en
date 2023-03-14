@@ -5,12 +5,7 @@
 -->
 I am a developer, have been coding since 14 (then: Pascal →...→ now: Python). I grew up in a small rice-farming village.
 
-💻 Currently working on Machine Learning field, the team not so big, so I play some roles:
-- Engineering models, data pipeline
-- MLOps: CI-CD, pipelines to improve model development workflow in container, remote training, on-premise or scale on Cloud
-- Optimize: enhance performance of training (Mixed Precision, Quantizing), inference on CUDA GPUs (TensorRT, Triton Server)...
-
-
+💻 Currently working on Software Engineering, things that helpful for people.
 It would be great if you find something helpful in this GitHub profile.
 
 <p align="center">
