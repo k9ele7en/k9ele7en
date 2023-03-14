@@ -3,7 +3,7 @@
 <!--
 **k9ele7en/k9ele7en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am a developer, have been coding since 14 (then: Pascal →...→ now: Python). I grew up in a small rice-farming village.
+I am a developer, have been coding since 14 (then: Pascal →...→ now: Python, Typescript...). I grew up in a small rice-farming village.
 
 💻 Currently working on Software Engineering, things that helpful for people.
 It would be great if you find something helpful in this GitHub profile.
